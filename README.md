@@ -1,3 +1,4 @@
 # Git-Stuff
 #trying stuff in gi hub
-# nånting
+# ånting
+# Detta är starten på Adams Kungarike
